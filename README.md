@@ -64,5 +64,18 @@ def daftar_barang():
 - tanya(): Memanggil fungsi tanya() setelah menghitung total untuk melanjutkan eksekusi program ke bagian selanjutnya
 - return: Mengakhiri eksekusi fungsi daftar_barang.
 
-
+### program Tambahan barang
+```Python
+def tanya():
+    print("\n-------------------------------")
+    tanya = input("Ingin tambah menu lainnya? [y/t] : ")
+    print("-------------------------------")
+    if tanya == "y":
+        daftar_barang()
+    elif tanya == "t":
+        akhir()
+    else:
+        print("Pilihan yang anda masukan salah!")
+```
+### penjelasan kode program tambah barang
 

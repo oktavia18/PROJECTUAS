@@ -50,3 +50,16 @@ def daftar_barang():
         total.append(total5)
         tanya()
     return
+
+### Penjelasa program input barang
+
+- def daftar_barang():: Ini adalah definisi dari fungsi daftar_barang. Fungsi ini digunakan untuk menampilkan daftar makanan/minuman dan meminta input dari pengguna.
+- print("| No | Makanan/Minuman | Harga |"): Menampilkan header tabel untuk daftar makanan/minuman beserta harga.
+- print("-------------------------------"): Menampilkan garis pemisah untuk memisahkan header dengan isi tabel.
+- kode = int(input("Masukkan angka makanan : ")): Mengambil input dari pengguna berupa nomor makanan/minuman yang dipilih.
+- if kode == 1: ... elif kode == 2: ... elif kode == 3: ...: Menjalankan blok kode sesuai dengan nomor makanan/minuman yang dimasukkan pengguna. Setiap blok meminta input jumlah makanan/minuman dan menghitung total harga berdasarkan harga per item.
+- total.append(total1): Menambahkan total harga makanan/minuman ke dalam daftar total. Sebaiknya pastikan bahwa total telah didefinisikan sebelumnya di program.
+- tanya(): Memanggil fungsi tanya() setelah menghitung total untuk melanjutkan eksekusi program ke bagian selanjutnya
+- return: Mengakhiri eksekusi fungsi daftar_barang.
+
+

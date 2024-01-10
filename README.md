@@ -1,4 +1,4 @@
-# PROJECTUAS
+# project UAS
 ## Link video : https://youtu.be/MgF4l7rhTI0?si=jQ2teI04VSZd6_eJ
 
 ## PROFIL

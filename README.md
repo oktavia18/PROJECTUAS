@@ -133,8 +133,12 @@ print("Terima kasih sudah belanja ")
 - daftar_barang(): Memanggil fungsi daftar_barang(), yang mungkin berisi logika untuk menampilkan daftar barang dan menghitung total pembelian.
 - print("Terima kasih sudah belanja "): Menampilkan pesan terima kasih setelah seluruh proses pembelian selesai.
 
+### OUTPUT KODE PEMROGRAMAN
+![alt text](?https://github.com/oktavia18/PROJECTUAS/blob/main/ss%20output.pngraw=true)
+
 ### Cara Penggunaan
 
 1. Pilih opsi sesuai dengan barang yang akan di pilih
 2. Ikuti petunjuk yang muncul untuk setiap opsi, dan program akan merespons sesuai.
 3. Program akan terus berjalan hingga pengguna memilih untuk tidak menambahkan barang.
+

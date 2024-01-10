@@ -134,7 +134,8 @@ print("Terima kasih sudah belanja ")
 - print("Terima kasih sudah belanja "): Menampilkan pesan terima kasih setelah seluruh proses pembelian selesai.
 
 ### OUTPUT KODE PEMROGRAMAN
-![alt text](?https://github.com/oktavia18/PROJECTUAS/blob/main/ss%20output.pngraw=true)
+![ss output](https://github.com/oktavia18/PROJECTUAS/assets/147913672/9d95ce4c-f059-4e29-ada4-c3a54bd46b7d)
+
 
 ### Cara Penggunaan
 

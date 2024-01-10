@@ -60,7 +60,7 @@ def daftar_barang():
     return
 ```
 
-### Program input barang
+### Penjelasan kode program input barang
 
 - def daftar_barang():: Ini adalah definisi dari fungsi daftar_barang. Fungsi ini digunakan untuk menampilkan daftar makanan/minuman dan meminta input dari pengguna.
 - print("| No | Makanan/Minuman | Harga |"): Menampilkan header tabel untuk daftar makanan/minuman beserta harga.

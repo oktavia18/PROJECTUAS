@@ -1,6 +1,14 @@
 # PROJECTUAS
 ## Link video : https://youtu.be/MgF4l7rhTI0?si=jQ2teI04VSZd6_eJ
 
+## PROFIL
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | Oktavia Rizkha Kurniawati |
+| **NIM** | 312310509 |
+| **Kelas** | TI.23.A.5 |
+| **Mata Kuliah** | Bahasa Pemrograman |
+
 ### Tugas Project UAS 
 Buat program sederhana kasir di sebuah kantin, dengan kondisi berikut:
 
